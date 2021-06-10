@@ -32,4 +32,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Bam and Kero 
 10. Oshinoko 
 11. The Little Prince 
+12. Jarinko Chie
 -----------------

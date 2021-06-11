@@ -21,4 +21,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Favorite Tea
-1. JAVA TEA
+1. chamomile
+2. jasmine tea
+3. protea
+4. barley tea
+5. Green Tea
+6. JAVA TEA
